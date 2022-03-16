@@ -1,2 +1,2 @@
 # NPGL-NPGD
-Matrix manifold  optimization problems
+two nonmonotone retraction based proximal gradient methods for nonsmooth optimization over the Stiefel manifold.
